@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>BIG BLACK PORTFOLIO</title>
+  <title>JUNIOR PORTFOLIO</title>
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
   <style>
@@ -155,7 +155,7 @@
 
   <!-- Welcome Overlay -->
   <div id="welcome-overlay">
-    Welcome to Big Black Portfolio
+    Welcome to JUNIOR Black Portfolio
   </div>
 
   <!-- Header -->
@@ -170,13 +170,13 @@
         <li><a href="#contact">Contact</a></li>
       </ul>
     </nav>
-  </header>
+  </header>R
 
   <!-- Intro Profile Section -->
   <div class="profile">
     <img src="WhatsApp Image 2025-08-13 at 20.20.24_6037147a.jpg" alt="Profile Picture">
     <h1>BIG BLACK</h1>
-    <p><strong>Community Manage|| Pro Moderator|| Graphic Designer|| Web Developer|| Raid Lead|| Shiller|| Marketer</strong></p>
+    <p><strong>Community Manage|| Moderator|| Collab Manager || Graphic Designer || Raid Lead|| Shiller|| Marketer</strong></p>
   </div>
 
 
@@ -190,8 +190,8 @@
   <div style="background: #111; padding: 30px; border-radius: 14px; max-width: 900px; margin: 0 auto; 
               box-shadow: 0 6px 18px rgba(0,0,0,0.7); text-align: left; border: 1px solid #222;">
     <p style="color: #ddd; font-size: 1.05rem; line-height: 1.7;">
- I’m a Web3 community specialist with solid experience in <strong>building, moderating, launching, and managing thriving blockchain communities</strong>. 
-      I align community culture with brand goals, organize engaging events, manage Discord & Telegram spaces, automate bots, and provide seamless support.  
+ I'm a full time Collaboration Manager and Moderator in the Web3 space with flexible hours that allow me to effectively serve communities across multiple time zones and With experience as an alpha caller, I’m well-connected to other alpha callers who can help promote early stage projects</strong>. 
+      I’m also skilled in language translation which I use to engage with community members who communicate in their native languages within international channels.
       My focus is on creating sustainable growth while keeping communities active, inclusive, and goal driven.
     </p>
 
@@ -200,16 +200,16 @@
       <button onclick="toggleHireMenu()" 
               style="background: linear-gradient(90deg,#0088cc,#00aaff); color: #fff; border: none; padding: 14px 26px; 
                      font-size: 1rem; border-radius: 10px; cursor: pointer; transition: 0.3s; font-weight: bold;">
-        💼 Hire Me
+         Hire Me
       </button>
 
       <div id="hireMenu" 
            style="display: none; margin-top: 15px; background: #111; border-radius: 10px; 
                   box-shadow: 0 6px 18px rgba(0,0,0,0.7); padding: 18px; text-align: left; border: 1px solid #222;">
         <p style="margin: 0 0 10px; color: #aaa; font-size: 0.9rem;">Contact me via:</p>
-        <a href="https://t.me/bigblack60q" target="_blank" style="display: block; color: #0088cc; margin: 6px 0;">📩 Telegram DM</a>
-        <a href="https://x.com/bigblack60q" target="_blank" style="display: block; color: #1DA1F2; margin: 6px 0;">🐦 X (Twitter) DM</a>
-        <a href="https://discord.com/users/1287900278649126973" target="_blank" style="display: block; color: #5865F2; margin: 6px 0;">🎮 Discord DM</a>
+        <a href="t.me/junior2155" target="_blank" style="display: block; color: #0088cc; margin: 6px 0;">📩 Telegram</a>
+        <a href="https://x.com/Junior215555?s=09" target="_blank" style="display: block; color: #1DA1F2; margin: 6px 0;">🐦 X (Twitter)</a>
+        <a href="https://discord.com/users/1403654082778107956" target="_blank" style="display: block; color: #5865F2; margin: 6px 0;">🎮 Discord</a>
       </div>
     </div>
   </div>
@@ -224,17 +224,17 @@
     
     <p style="margin: 0 0 10px; color: #aaa; font-size: 0.9rem;">Contact me via:</p>
     
-      <a href="https://t.me/bigblack60q" target="_blank" 
+      <a href="t.me/junior2155" target="_blank" 
        style="display: block; color: #0088cc; text-decoration: none; margin: 6px 0; font-size: 1rem;">
        📩 Telegram DM
     </a>
     
-    <a href="https://x.com/bigblack60q" target="_blank" 
+    <a href="https://x.com/Junior215555?s=09" target="_blank" 
        style="display: block; color: #1DA1F2; text-decoration: none; margin: 6px 0; font-size: 1rem;">
        🐦 X (Twitter) DM
     </a>
     
-     <a href="https://discord.com/users/1287900278649126973" target="_blank" 
+     <a href="https://discord.com/users/1403654082778107956" target="_blank" 
        style="display: block; color: #5865F2; text-decoration: none; margin: 6px 0; font-size: 1rem;">
        🎮 Discord DM
     </a>
@@ -259,68 +259,43 @@ function toggleHireMenu() {
     
   <div class="card" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
 <!-- Twitter -->
-    <a href="https://x.com/bigblack60q" target="_blank" 
+    <a href="https://x.com/Junior215555?s=09" target="_blank" 
        style="display: flex; align-items: center; gap: 8px; text-decoration: none; 
               color: #1DA1F2; font-weight: bold; font-size: 1rem;">
       <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" 
            alt="Twitter" style="width: 22px; height: 22px; filter: invert(100%);">
-      @bigblack60q
+      @Junior215555
     </a>
 
     <!-- Discord -->
-    <a href="https://discord.com/users/1287900278649126973" target="_blank" 
+    <a href="https://discord.com/users/1403654082778107956" target="_blank" 
        style="display: flex; align-items: center; gap: 8px; text-decoration: none; 
               color: #5865F2; font-weight: bold; font-size: 1rem;">
       <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" 
            alt="Discord" style="width: 22px; height: 22px;">
-      @bigblack60q
+      @junior2155
     </a>
 
     <!-- Telegram -->
-    <a href="https://t.me/bigblack60q" target="_blank" 
+    <a href="t.me/junior2155" target="_blank" 
        style="display: flex; align-items: center; gap: 8px; text-decoration: none; 
               color: #0088cc; font-weight: bold; font-size: 1rem;">
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" 
            alt="Telegram" style="width: 22px; height: 22px;">
-      @bigblack60q
+      @junior2155
     </a>
 
     <!-- Email -->
-    <a href="mailto:bigblack60q@gmail.com" 
+    <a href="mailto:Jun007194@gmail.com" 
        style="display: flex; align-items: center; gap: 8px; text-decoration: none; 
               color: #ff4a4a; font-weight: bold; font-size: 1rem;">
       <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" 
            alt="Email" style="width: 22px; height: 22px;">
-      bigblack60q@gmail.com
+     Jun007194@gmail.com
     </a> 
     </ul>
   </div>
 </section>
-
-
-<!-- Proof of Work Section -->
-<section id="proof-of-work" style="padding: 70px 20px; background: #000; text-align: center;">
-  <div style="max-width: 700px; margin: 0 auto; background: #111; padding: 30px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.6);">
-    
-    <h2 style="font-size: 2.2rem; margin-bottom: 20px; color: #fff;">💼 My POW</h2>
-    
-    <p style="font-size: 1.1rem; color: #ddd; line-height: 1.6; margin-bottom: 25px;">
-      Welcome to my <strong>Proof of Work channel</strong>, a space where I share my projects, progress, and updates on how I build communities and grow foundations. This is where I show real execution, results, and how I work with communities.
-    </p>
-
-    <!-- Button -->
-    <a href="https://t.me/bigblackPOW" target="_blank" 
-       style="display: inline-flex; align-items: center; gap: 12px; background: #0088cc; 
-              color: #fff; padding: 14px 24px; border-radius: 10px; text-decoration: none; 
-              font-weight: bold; font-size: 1.05rem; transition: 0.3s ease;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" 
-           alt="Telegram" style="width: 24px; height: 24px;">
-      Join My POV
-    </a>
-    </p>
-  </div>
-</section>
-
 
 <!-- Employments & Projects -->
 <section id="employments" style="padding: 70px 20px; background: #000; text-align: center;">
@@ -328,155 +303,20 @@ function toggleHireMenu() {
   
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 25px; max-width: 1100px; margin: 0 auto;">
 
-    <!-- Floaters -->
-    <div style="background: #111; padding: 25px; border-radius: 14px; text-align: left; 
-                box-shadow: 0 6px 18px rgba(0,0,0,0.7); border: 1px solid #222;">
-      <h3 style="color: #fff;">Floaters NFT</h3>
-      <ul style="color: #bbb; padding-left: 18px; line-height: 1.6;">
-        <li>Role: Community Moderator</li>
-        <li>Moderation & community safety</li>
-        <li>Announcements & updates</li>
-        <li>Community building</li>
-        <li>X (Twitter) management</li>
-      </ul>
-      <a href="https://discord.gg/YtptBae6Mm" target="_blank" 
-         style="display: inline-block; background: #5865F2; color: #fff; padding: 10px 20px; 
-                border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 0.95rem;">
-        Join Server
-      </a>
-    </div>
 
-    <!-- Narrrf's World NFT -->
-    <div style="background: #111; padding: 25px; border-radius: 14px; text-align: left; 
-                box-shadow: 0 6px 18px rgba(0,0,0,0.7); border: 1px solid #222;">
-      <h3 style="color: #fff;">Narrrf's World NFT</h3>
-      <ul style="color: #bbb; padding-left: 18px; line-height: 1.6;">
-        <li>Role: OG & Dev Assistant</li>
-        <li>Organized game nights</li>
-        <li>Promotional content creation</li>
-        <li>Community outreach</li>
-      </ul>
-      <a href="https://discord.gg/AMs6ysaxTt" target="_blank" 
-         style="display: inline-block; background: #5865F2; color: #fff; padding: 10px 20px; 
-                border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 0.95rem;">
-        Join Server
-      </a>
-    </div>
-
-    <!-- APOCAT -->
-    <div style="background: #111; padding: 25px; border-radius: 14px; text-align: left; 
-                box-shadow: 0 6px 18px rgba(0,0,0,0.7); border: 1px solid #222;">
-      <h3 style="color: #fff;">APOCAT</h3>
-      <ul style="color: #bbb; padding-left: 18px; line-height: 1.6;">
-        <li>Role: Community Manager</li>
-        <li>Event creation & hosting</li>
-        <li>Community management</li>
-        <li>Engagement growth & strategies</li>
-      </ul>
-      <a href="https://discord.gg/k7DQXsTG" target="_blank" 
-         style="display: inline-block; background: #5865F2; color: #fff; padding: 10px 20px; 
-                border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 0.95rem;">
-        Join Server
-      </a>
-    </div>
-
-    <!-- Danny Wet Raccoon -->
-    <div style="background: #111; padding: 25px; border-radius: 14px; text-align: left; 
-                box-shadow: 0 6px 18px rgba(0,0,0,0.7); border: 1px solid #222;">
-      <h3 style="color: #fff;">Danny Wet Raccoon</h3>
-      <ul style="color: #bbb; padding-left: 18px; line-height: 1.6;">
-        <li>Role: Community Support</li>
-        <li>Telegram engagement</li>
-        <li>Community interaction</li>
-      </ul>
-      <a href="https://t.me/+2Nj8sULTMjRkODll" target="_blank" 
-         style="display: inline-block; background: #0088cc; color: #fff; padding: 10px 20px; 
-                border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 0.95rem;">
-        Join Server
-      </a>
-    </div>
-
-    <!-- 7heaven NFT -->
-    <div style="background: #111; padding: 25px; border-radius: 14px; text-align: left; 
-                box-shadow: 0 6px 18px rgba(0,0,0,0.7); border: 1px solid #222;">
-      <h3 style="color: #fff;">7heaven NFT</h3>
-      <ul style="color: #bbb; padding-left: 18px; line-height: 1.6;">
-        <li>Role: Community Moderator</li>
-        <li>Moderation & server growth</li>
-        <li>Engagement activities</li>
-      </ul>
-      <a href="https://discord.gg/Xgk4ttezbG" target="_blank" 
-         style="display: inline-block; background: #5865F2; color: #fff; padding: 10px 20px; 
-                border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 0.95rem;">
-        Join Server
-      </a>
-    </div>
-
-    <!-- PacTON -->
-    <div style="background: #111; padding: 25px; border-radius: 14px; text-align: left; 
-                box-shadow: 0 6px 18px rgba(0,0,0,0.7); border: 1px solid #222;">
-      <h3 style="color: #fff;">PacTON</h3>
-      <ul style="color: #bbb; padding-left: 18px; line-height: 1.6;">
-        <li>Role: Community Moderator</li>
-        <li>Telegram moderation</li>
-        <li>Announcements & updates</li>
-      </ul>
-      <a href="https://t.me/pactonoffical1" target="_blank" 
-         style="display: inline-block; background: #0088cc; color: #fff; padding: 10px 20px; 
-                border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 0.95rem;">
-        Join Server
-      </a>
-    </div>
-
-       <!-- Painless Coin -->
+ <!-- $remoinfttoken -->
     <div style="background: #111; padding: 25px; border-radius: 14px; text-align: left; box-shadow: 0 6px 18px rgba(0,0,0,0.7); border: 1px solid #222;">
-      <h3 style="color: #fff;">Painless Coin</h3>
+      <h3 style="color: #fff;">$Fish Coin</h3>
       <ul style="color: #bbb; padding-left: 18px; line-height: 1.6;">
         <li>Community Moderator</li>
-        <li>Handled daily support & moderation</li>
-        <li>Kept chats safe & welcoming</li>
+        <li>Helped with events & partnerships</li>
+        <li>Shared regular updates to holders</li>
       </ul>
-      <a href="https://discord.gg/QXVs5jsWNp" target="_blank"
+      <a href="https://t.me/remoinfttoken" target="_blank"
          style="display: inline-block; background: #5865F2; color: #fff; padding: 10px 20px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 0.95rem;">Join Server</a>
     </div>
 
-    <!-- Alpha Coin -->
-    <div style="background: #111; padding: 25px; border-radius: 14px; text-align: left; box-shadow: 0 6px 18px rgba(0,0,0,0.7); border: 1px solid #222;">
-      <h3 style="color: #fff;">Alpha Coin</h3>
-      <ul style="color: #bbb; padding-left: 18px; line-height: 1.6;">
-        <li>Community Moderator</li>
-        <li>Ran community engagement campaigns</li>
-        <li>Shared updates & AMA coordination</li>
-      </ul>
-      <a href="https://discord.gg/QXVs5jaWNp" target="_blank"
-         style="display: inline-block; background: #5865F2; color: #fff; padding: 10px 20px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 0.95rem;">Join Server</a>
-    </div>
-
-    <!-- Hero Coin -->
-    <div style="background: #111; padding: 25px; border-radius: 14px; text-align: left; box-shadow: 0 6px 18px rgba(0,0,0,0.7); border: 1px solid #222;">
-      <h3 style="color: #fff;">Hero Coin</h3>
-      <ul style="color: #bbb; padding-left: 18px; line-height: 1.6;">
-        <li>Community Manager</li>
-        <li>Organized giveaways & events</li>
-        <li>Boosted retention through engagement</li>
-      </ul>
-      <a href="https://discord.gg/QXVh5jsWNp" target="_blank"
-         style="display: inline-block; background: #5865F2; color: #fff; padding: 10px 20px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 0.95rem;">Join Server</a>
-    </div>
-
-    <!-- Monkey Coin -->
-    <div style="background: #111; padding: 25px; border-radius: 14px; text-align: left; box-shadow: 0 6px 18px rgba(0,0,0,0.7); border: 1px solid #222;">
-      <h3 style="color: #fff;">Monkey Coin</h3>
-      <ul style="color: #bbb; padding-left: 18px; line-height: 1.6;">
-        <li>Community Moderator</li>
-        <li>Created content & announcements</li>
-        <li>Helped grow & engage new members</li>
-      </ul>
-      <a href="https://discord.gg/QXVs5jsWNp" target="_blank"
-         style="display: inline-block; background: #5865F2; color: #fff; padding: 10px 20px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 0.95rem;">Join Server</a>
-    </div>
-
-    <!-- Raiderz -->
+    <!-- Moonbase -->
     <div style="background: #111; padding: 25px; border-radius: 14px; text-align: left; box-shadow: 0 6px 18px rgba(0,0,0,0.7); border: 1px solid #222;">
       <h3 style="color: #fff;">Raiderz</h3>
       <ul style="color: #bbb; padding-left: 18px; line-height: 1.6;">
@@ -512,7 +352,7 @@ function toggleHireMenu() {
          style="display: inline-block; background: #5865F2; color: #fff; padding: 10px 20px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 0.95rem;">Join Server</a>
     </div>
 
-    <!-- $Real Trump -->
+    <!-- $AfterTrump -->
     <div style="background: #111; padding: 25px; border-radius: 14px; text-align: left; box-shadow: 0 6px 18px rgba(0,0,0,0.7); border: 1px solid #222;">
       <h3 style="color: #fff;">$Real Trump</h3>
       <ul style="color: #bbb; padding-left: 18px; line-height: 1.6;">
@@ -524,7 +364,7 @@ function toggleHireMenu() {
          style="display: inline-block; background: #5865F2; color: #fff; padding: 10px 20px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 0.95rem;">Join Server</a>
     </div>
 
-    <!-- $Fish Coin -->
+    <!-- $CatCoin -->
     <div style="background: #111; padding: 25px; border-radius: 14px; text-align: left; box-shadow: 0 6px 18px rgba(0,0,0,0.7); border: 1px solid #222;">
       <h3 style="color: #fff;">$Fish Coin</h3>
       <ul style="color: #bbb; padding-left: 18px; line-height: 1.6;">
@@ -536,7 +376,7 @@ function toggleHireMenu() {
          style="display: inline-block; background: #5865F2; color: #fff; padding: 10px 20px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 0.95rem;">Join Server</a>
     </div>
 
-    <!-- Apex Community -->
+    <!-- Boss Community -->
     <div style="background: #111; padding: 25px; border-radius: 14px; text-align: left; box-shadow: 0 6px 18px rgba(0,0,0,0.7); border: 1px solid #222;">
       <h3 style="color: #fff;">Apex Community</h3>
       <ul style="color: #bbb; padding-left: 18px; line-height: 1.6;">
@@ -565,7 +405,7 @@ function toggleHireMenu() {
 
     <div class="skill">
       <div class="circle" data-percent="95"></div>
-      <p>Content Creation</p>
+      <p>Collaboration</p>
     </div>
 
     <div class="skill">
@@ -708,18 +548,13 @@ document.addEventListener("DOMContentLoaded", () => {
 
 <!-- Note to Devs -->
 <section id="note" style="padding: 70px 20px; background: #000; text-align: center;">
-  <h2 style="font-size: 2.2rem; margin-bottom: 30px; color: #fff;">Note to Devs & Founders</h2>
+  <h2 style="font-size: 2.2rem; margin-bottom: 30px; color: #fff;">Note to Devs</h2>
   
   <div style="background: #111; padding: 30px; border-radius: 12px; max-width: 900px; margin: 0 auto 40px; box-shadow: 0 4px 12px rgba(0,0,0,0.6); text-align: left;">
     <p style="color: #ddd; font-size: 1.1rem; line-height: 1.7; margin-bottom: 20px;">
       If you're a Project <strong>Dev</strong> or <strong>Founder</strong> and you are currently reviewing my 
       <strong>Proof of Work</strong>, please have this in mind, that i don't offer free work.
     </p>
-
-    <ul style="color: #ddd; font-size: 1.05rem; line-height: 1.7; list-style-type: none; padding-left: 0;">
-      <li>⚡ <strong>WHY I don't offer free work?</strong> every contribution you see here is backed up by real value, strategies, my time, effort and skill.</li>
-      <li>💡 I respect our craft and expect the same professionalism in return.</li>
-      <li>🧠 Great work deserves great compensation.</li>
       <li>📌 Available only for serious collaborations.</li>
     </ul>
   </div>
@@ -756,4 +591,5 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   </script>
 </body>
+
 </html>
