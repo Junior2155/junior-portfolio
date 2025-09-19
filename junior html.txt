@@ -174,7 +174,7 @@
 
   <!-- Intro Profile Section -->
   <div class="profile">
-    <img src="WhatsApp Image 2025-08-13 at 20.20.24_6037147a.jpg" alt="Profile Picture">
+    <img src="WhatsApp Image 2025-09-19 at 18.36.36_c4427cdd.jpg" alt="Profile Picture">
     <h1>BIG BLACK</h1>
     <p><strong>Community Manage|| Moderator|| Collab Manager || Graphic Designer || Raid Lead|| Shiller|| Marketer</strong></p>
   </div>
@@ -593,3 +593,4 @@ document.addEventListener("DOMContentLoaded", () => {
 </body>
 
 </html>
+
